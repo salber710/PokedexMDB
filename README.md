@@ -5,8 +5,9 @@ An application that stores information about roughly 800 Pokemon. The user can s
 <img src = "/Linear_Pokedex.PNG" width = "200">
 Linear layout for displaying the apps, there is a button in the upper right corner with a grid that will display the Pokemon in a grid when pressed.
 
+<img src = "/display_poke.PNG" width = "200">
+A screen with all the information of a particular Pokemon that is activated when you press that Pokemon.
+
 <img src = "/search_poke.PNG" width = "200">
 Search bar where the user can look for specific Pokemon.
 
-<img src = "/display_poke.PNG" width = "200">
-A screen with all the information of a particular Pokemon that is activated when you press that Pokemon.
